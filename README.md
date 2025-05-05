@@ -1,11 +1,12 @@
 ## About
-Mega Man X Code Red was going to be a Fan-made Remake/Reimagining of Mega Man X7. The project ended up being cancelled however, due to the lack of a clear direction.
-
-A showcase of the final build can be found here: https://youtu.be/ovjSoyjPkQ0
+Mega Smash X is a fork of "Mega Man X Code Red" with the purpose of creating a Super Smash Bros-like game, themed around Mega Man X.
 
 The game runs on Godot 3.5
 
 ## Credits
+
+- RedDragonLVS: Game designer and Level Designer.
+- Thinico: Coding and Spritework.
 
 - Dr. Doofus: Main Developer
 - Sprite-Inc: Providing sprites from Mega Man X4, X5 and X6
